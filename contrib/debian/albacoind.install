@@ -1,0 +1,2 @@
+debian/bin/albacoind usr/bin
+src/albacoind usr/lib/albacoin
