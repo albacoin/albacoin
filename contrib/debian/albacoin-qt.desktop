@@ -1,9 +1,9 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=NovaCoin
-Comment=NovaCoin P2P Cryptocurrency
-Comment[fr]=NovaCoin, monnaie virtuelle cryptographique pair à pair
-Comment[tr]=NovaCoin, eşten eşe kriptografik sanal para birimi
+Name=AlbaCoin
+Comment=AlbaCoin P2P Cryptocurrency
+Comment[fr]=AlbaCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=AlbaCoin, eşten eşe kriptografik sanal para birimi
 Exec=/usr/bin/albacoin-qt
 Terminal=false
 Type=Application
